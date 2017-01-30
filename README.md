@@ -31,7 +31,7 @@ Everything is inside the 'the-app' folder:
             -   contains the 3 files needed to install on an iOS device from a remote URL (beta.html, manifest.plist, ReadBar.ipa)
             -   please note that as an app in beta - i.e. as an app running with a 'developer' provisioning profile from Apple, it will only install on iOS devices that have their UDIDs included in the provisioning profile. If you wish to test this app on your device using my (Dave Kilroy's) Apple certification then please send my your device's UDID
 - folder: images-non-app
-    -   contains the icon image (created by Martyn Reed) in the various sizes needed for iOS and Android phones
+    -   contains the icon image (created by Martyn Read) in the various sizes needed for iOS and Android phones
     -   Note: I have not yet included them in the build...
 
 Please get in touch if you want information on LiveCode or what I've done so far.
