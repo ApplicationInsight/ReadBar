@@ -58,6 +58,8 @@ Everything is inside the 'the-app' folder:
 
 The actual barcode reading is done by using the mergAV LiveCode external (currently to access this you will need an 'Indy' licence from LiveCode - until they finish their 'LiveCode Infinity' project).
 
-This also effects building the app for Android, I was going to use the XZing code library but the version that LiveCode works with is elderly and it makes sense to hang on until they have done their 'LiveCode Infinite' as this will be cross-platform. As to when 'LiveCode Infinite' will be ready, hard to know, it was originally slated for Autumn 2016 and the latest I've heard is that "progress is good".
+This also effects building the app for Android, I was going to use the XZing code library but the version that LiveCode works with is elderly and it makes sense to hang on until they have done their 'LiveCode Infinite' as this will be cross-platform.
+
+I've just remembered that Monte Goulding (the author of mergZXing) made an Android version of this external - I've just tried a hello-world app with it on an Android device and it works fine! Will make an Android version of ReadBar soon...
 
 Please get in touch if you want information on LiveCode or what I've done so far.
