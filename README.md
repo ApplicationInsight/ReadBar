@@ -24,7 +24,7 @@ Everything is inside the 'the-app' folder:
 - folder: stack-archive
 
     -   these contain all the older versions of stackfiles - as I can't use git version control (see above) I do regular saves agains imcrementing file names
-    
+
 
 - folder: audio
 
@@ -57,5 +57,7 @@ Everything is inside the 'the-app' folder:
     -   Note: I have not yet included them in the build...
 
 The actual barcode reading is done by using the mergAV LiveCode external (currently to access this you will need an 'Indy' licence from LiveCode - until they finish their 'LiveCode Infinity' project).
+
+This also effects building the app for Android, I was going to use the XZing code library but the version that LiveCode works with is elderly and it makes sense to hang on until they have done their 'LiveCode Infinite' as this will be cross-platform. As to when 'LiveCode Infinite' will be ready, hard to know, it was originally slated for Autumn 2016 and the latest I've heard is that "progress is good".
 
 Please get in touch if you want information on LiveCode or what I've done so far.
